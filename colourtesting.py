@@ -13,7 +13,7 @@ HIGH_V_default = 255
 
 cap = cv2.VideoCapture(0)
 if not cap.isOpened():
-    print("ERROR: Camera not open!! Some more testing....")
+    print("ERROR: Camera not open!! On Test branch")
     exit()
 
 cv2.namedWindow('HSV Threshold')
