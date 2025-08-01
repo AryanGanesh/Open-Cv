@@ -1,0 +1,2 @@
+
+            # Extract landmark coordinates
